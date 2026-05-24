@@ -1,0 +1,2 @@
+void ftpserver();
+void ftpclient();
